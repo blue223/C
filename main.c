@@ -7,7 +7,8 @@ void main()
 {
 	while(1){
 	key_board();
-
+key_board();
+key_board();
 	}
 }
 void delay(unsigned int t)
